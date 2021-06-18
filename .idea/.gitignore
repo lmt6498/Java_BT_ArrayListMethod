@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# CodeStream ignored files
+/../../TH_ArrayListMethod\.idea/codestream.xml
+# Datasource local storage ignored files
+/../../../../:\JavaProject\TH_ArrayListMethod\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
